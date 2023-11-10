@@ -1,4 +1,4 @@
-<img align="right" src="https://avatars.githubusercontent.com/u/105430849?s=400&u=52e02a1b0c85df31bae29139d6d9d4a42d64920e&v=4" alt="profile-git" style="width:50%; height:20%;"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/105430849?s=96&v=4" alt="profile-git" style="width:50%; height:20%;"/>
 
 
 ## Seja bem-vindo(a)! Sou o José Eduardo, mas pode me chamar de Zé!
