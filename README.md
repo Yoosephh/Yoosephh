@@ -6,7 +6,7 @@
 
 - 🎓 Estou estudando para me tornar um Desenvolvedor Web Full Stack, além de ser graduado como Bacharel em Química.
 - 📌 Atualmente, estudando POO com NestJS.
-- 📚 Tenho interesse em aprender Next, Java e PHP.
+- 📚 Tenho interesse em aprender NextJS, Java e PHP.
 - 🐈 Curiosidade sobre mim: A pandemia me tornou apaixonado por aranhas, o que me torna um desenvolvedor web com características diferenciadas (hehehe).
 - 📩 Sinta-se à vontade para me passar sugestões e feedbacks que considerar pertinente sobre meus projetos através do email jose.es.oleg@gmail.com :)
 ### Where to find me:
