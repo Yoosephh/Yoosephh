@@ -1,7 +1,6 @@
-<div display=flex>
+
  ## Seja bem-vindo(a)! Sou o José Eduardo, mas pode me chamar de Zé!
- <img align="right" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif" alt="profile-git" style="width:40%; height:15%;"/>
-</div>
+ <img align="right" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif" alt="profile-git" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%)"/>
 
 
 
