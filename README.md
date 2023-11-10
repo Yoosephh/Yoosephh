@@ -1,6 +1,6 @@
 
  ## Seja bem-vindo(a)! Sou o José Eduardo, mas pode me chamar de Zé!
- <img align="right" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif" alt="profile-git" style="width:30%; height:10%; display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%) width"/>
+ <img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=82a1493b5ojg5tj89v65trso8xh4v8ojqyhxcvnczsvy0gwl&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="profile-git" style="width:70%; height:50%; display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%) width"/>
 
 
 
@@ -36,8 +36,3 @@
    <img alt="nestJs" src="https://camo.githubusercontent.com/8855980a487f9e31426fbfc2cbbfdda5aa3b7f1d390e262e652e639e911b3d87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465">
     <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
 </div>  
-
- ### Operating Systems:
- <div align="center">
-    <img alt="linux" src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b">
- </div>
