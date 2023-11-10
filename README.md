@@ -14,13 +14,7 @@
 <a href = "mailto:jose.es.oleg@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jose-eduardo-olegario/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gessicacss&show_icons=true&count_private=true&hide_border=true&title_color=FFC0CB&icon_color=FFDAB9&text_color=FFDAB9&bg_color=0d1117" alt="Géssica Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gessicacss&layout=compact&hide_border=true&title_color=FFC0CB&text_color=FFDAB9&bg_color=0d1117" />
-</div> 
-
- ### Technologies I'm working with:
+### Technologies I'm working with:
 <div align="center">
   <img alt="html" src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
   <img alt="css" src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
@@ -36,3 +30,10 @@
    <img alt="nestJs" src="https://camo.githubusercontent.com/8855980a487f9e31426fbfc2cbbfdda5aa3b7f1d390e262e652e639e911b3d87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465">
     <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
 </div>  
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gessicacss&show_icons=true&count_private=true&hide_border=true&title_color=FFC0CB&icon_color=FFDAB9&text_color=FFDAB9&bg_color=0d1117" alt="Géssica Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gessicacss&layout=compact&hide_border=true&title_color=FFC0CB&text_color=FFDAB9&bg_color=0d1117" />
+</div> 
+
+ 
