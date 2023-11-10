@@ -1,7 +1,10 @@
-<img align="right" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif" alt="profile-git" style="width:40%; height:15%;"/>
+<div display=flex>
+ ## Seja bem-vindo(a)! Sou o José Eduardo, mas pode me chamar de Zé!
+ <img align="right" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif" alt="profile-git" style="width:40%; height:15%;"/>
+</div>
 
 
-## Seja bem-vindo(a)! Sou o José Eduardo, mas pode me chamar de Zé!
+
 - 🎓 Estou estudando para me tornar um Desenvolvedor Web Full Stack, além de ser graduado como Bacharel em Química.
 - 📌 Atualmente, estudando POO com NestJS.
 - 📚 Tenho interesse em aprender Next, Java e PHP.
