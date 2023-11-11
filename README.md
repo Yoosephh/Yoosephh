@@ -28,8 +28,8 @@
 </div>  
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yoosephh&show_icons=true&count_private=true&hide_border=true&title_color=FFC0CB&icon_color=FFDAB9&text_color=FFDAB9&bg_color=0d1117" alt="José Eduardo's GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoosephh&layout=compact&hide_border=true&title_color=FFC0CB&text_color=FFDAB9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yoosephh&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=87CEFA&text_color=778899&bg_color=F0FFFF" alt="José Eduardo GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoosephh&layout=compact&hide_border=true&title_color=4682B4&text_color=778899&bg_color=F0FFFF" />
 </div> 
 
  ### Where to find me:
